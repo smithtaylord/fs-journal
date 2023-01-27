@@ -13,7 +13,7 @@ A function is a "program" within your code that does a specific thing (what ever
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-object oriented Design 
+object orented Design 
 
 Single Responsibility Principle
 Open-Close Principle
@@ -38,7 +38,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -66,7 +66,7 @@ Document Object Model
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-Numbers, Strings, Bools, Array, Object, Function I am not sure about this and Will have to ask. 
+Numbers, Strings, Bools, Array, Object, Function, undefined, null, NaN 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
