@@ -13,7 +13,7 @@ A function is a "program" within your code that does a specific thing (what ever
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-object orented Design 
+object oriented Design 
 
 Single Responsibility Principle
 Open-Close Principle
